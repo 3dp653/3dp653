@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @3dp653
 - 👀 I’m interested in Games n stuff. 
-- 🌱 I’m currently learning Python, want to learn Java
-- 💞️ I’m looking to collaborate on: Nothing until I can contribute more to any team I'm on!
+- 🌱 I'm still a smol programmer, and am still learning.
 - 📫 How to reach me: I've got an email: 3dp653@gmail.com 
 
 <!---
